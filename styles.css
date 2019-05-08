@@ -1,0 +1,49 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 50px;
+    line-height: 50px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+    border-top: 8px solid rgb(115, 117, 115);
+}
+
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+    font-size: small;
+}
+
+.mainpage{
+    border: 10px solid white;
+}
+
+.mainpage_p1{
+    border: 10px solid white;
+    border-bottom : 5px;
+}
+
+
+.graphs{
+    border: 10px solid white;
+    border-bottom: 150px solid white;
+}
+
+.p-l-20{
+    border:10px solid white;
+    border-bottom : 1px solid white;
+}
+.image> img{
+    border-style: dotted;
+    border-color: gray;
+    margin : 5px;
+}
+.image>img:hover{
+    border-color : blue;
+}
+.image>img:active{
+    border-color : green;
+}
