@@ -1,5 +1,5 @@
 # Latitude
 Weather Analysis
 
-You may access the site through the following URL
+Site URL:
 https://dineshsidd.github.io/
